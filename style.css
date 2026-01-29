@@ -393,7 +393,6 @@ body {
 @media (max-width: 480px) {
   .calculator {
     margin-top: 450px;
-    margin-bottom: 20px;
   }
 
     .header {
