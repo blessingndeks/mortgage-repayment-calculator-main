@@ -43,6 +43,8 @@ body {
   overflow: hidden;
   display: flex;
   flex-direction: row;
+  margin-bottom: -50px;
+  margin-top: -30px;
 }
 
 /* Form Panel */
@@ -375,7 +377,8 @@ body {
 @media (max-width: 768px) {
   .calculator {
     flex-direction: column;
-    margin-top: 400px;
+    margin-top: 350px;
+    margin-bottom: 20px;
   }
 
     .form-panel, .results-panel {
@@ -392,7 +395,8 @@ body {
 
 @media (max-width: 480px) {
   .calculator {
-    margin-top: 450px;
+    margin-top: 400px;
+    margin-bottom: 20px;
   }
 
     .header {
