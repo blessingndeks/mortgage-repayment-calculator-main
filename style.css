@@ -246,7 +246,7 @@ body {
   gap: 0.75rem;
   width: 100%;
   padding: 1rem 2rem;
-  background-color: black;
+  background-color: var(--lime);
   color: var(--foreground);
   border: none;
   border-radius: 9999px;
